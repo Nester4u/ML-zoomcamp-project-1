@@ -9,4 +9,7 @@ Different models were trained and tested to select the best performing one for t
 -	Run the file on jupyter notebook
 -	Run python train.py on a terminal
 -	Build the docker container
--	Run the docker container 
+-	Run the docker container
+
+## Dependencies
+- You can easily install the dependencies and use the venv environment
